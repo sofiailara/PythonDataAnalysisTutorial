@@ -73,7 +73,7 @@ plt.xlabel(options.xtitle, fontsize=18)
 plt.ylabel(options.ytitle, fontsize=18)
 
 # make axis tick numbers larger
-plt.xticks(fontsize=14)abcd
+plt.xticks(fontsize=14)
 plt.yticks(fontsize=14)
 
 # make sure to noe have too much white space around the plot
